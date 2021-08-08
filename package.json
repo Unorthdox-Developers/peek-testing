@@ -1,0 +1,29 @@
+{
+  "name": "peek-testing",
+  "version": "1.0.0",
+  "description": "Everything testing",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unorthdox-Developers/peek-testing.git"
+  },
+  "keywords": [
+    "peek-testing",
+    "e2e",
+    "integrtion-testing",
+    "component-testing"
+  ],
+  "author": "Saransh Vaid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unorthdox-Developers/peek-testing/issues"
+  },
+  "homepage": "https://github.com/Unorthdox-Developers/peek-testing#readme"
+}
